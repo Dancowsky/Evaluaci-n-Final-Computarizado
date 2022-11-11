@@ -1,0 +1,296 @@
+.titulo{ 
+    font-size: 2rem;
+    width: 40px;
+    height: 40px;
+}
+.buscador{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.buscador img{
+    width:2rem; 
+    height:2rem;
+}
+.menu{
+    width:2rem; 
+    height:2rem;
+}
+.crm{
+    display: flex;
+    flex-direction: row;
+}
+.im{
+    display: flex;
+    flex-direction: row;
+    }
+    .nombre {
+        font-weight: 800;
+        }
+    .UX {
+            font-size: 3.5rem;
+            font-weight: 200;
+    }
+    .Of_course {
+        font-size:2.3rem;
+        font-weight:150
+    }
+    .img{
+        width: 60rem;
+        height: auto;
+        }
+    .loguito{
+            width: 15rem; 
+            height: auto;
+    } 
+    .logo{
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+    }
+    .leer {
+        font-size: 3rem;
+       font-weight:150;
+       }
+    .leer{
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+    }
+    .imagen{
+        width: 60rem;
+    height: auto;
+    }
+    .wath{
+        font-size: 3rem;
+        font-weight:150;
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+    }
+    .hombre{
+        height: 30rem;
+        width: 55rem;
+        left: 0px;
+        top: 0px;
+        margin: auto;
+        padding: 20px 40px 20px 40px;
+        background: #333333;
+    }
+    .reas{
+        margin-top: 4.5rem;
+        font-size: 2rem;
+    }
+    .hombre .h1,.h4,.reas{
+    color: antiquewhite;
+    }
+    .h1{
+        font-size: 5rem;
+    }
+    .h4{
+        font-size: 1.5rem;
+    }
+    .read{
+        margin-top: 4.5rem;
+    }
+    .gris{
+        height: 30rem;
+        width: 55rem;
+        left: 0px;
+        top: 0px;
+        margin: auto;
+        margin-top: 32px;
+        padding: 20px 40px 20px 40px;
+        background: #D6D6D6;
+    }
+    .gris .h11,.h44,.read{
+    
+    color: #333333;
+    }
+    .grays{
+        height: 30rem;
+        width: 55rem;
+        left: 0px;
+        top: 0px;
+        margin: auto;
+        margin-top: 32px;
+        padding: 20px 40px 20px 40px;
+        background: #D6D6D6;
+    }
+    .grises .h111,.h444,.read{
+        color: #333333;
+    }
+    .puntitos{
+        width: 60rem;
+        height: auto;
+    }
+    .logo2{
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+    }
+    .h11{
+        font-size: 4rem;
+    }
+    .h111{
+        font-size: 4rem;
+    }
+    .h44{
+        font-size: 1.5rem;
+    }
+    .h444{
+        font-size: 1.5rem;
+    }
+    .read{
+        margin-top: 4.5rem;
+    }
+    .punto{
+        align-self: center;
+    }
+    .portafolio{
+        font-size: 4rem;
+        text-align: center;  
+    }
+    .leters{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .fotos{
+        width: 60rem;
+        height: auto;  
+        margin-top: 32px;
+    }
+    .punto{
+        align-self: center;
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+    }
+    .gente{
+        font-size: 4rem;
+        text-align: center;
+    }
+    .cara{
+        display: flex;
+        flex-direction: row;
+        justify-content:center; 
+        width:60rem;
+        height: auto;
+    }
+    .text{
+        font-size: 2rem;
+        text-align: center;  
+    }
+    .hombre{
+      
+        padding: 2.5rem;
+        background-color:#363434;
+        width:60rem;
+        height: 60rem;
+    }
+    .texto1{
+        
+        margin-top: 8rem;
+        font-size: 3rem;
+        text-align: center; 
+        color: #FFFFFF;
+    }
+    .boton{
+        font-size:  2.8rem;
+        text-decoration: none;
+        color: black;
+    background-color: #FFFFFF;
+    width:10rem;
+        height: 8rem;
+    }
+    .m{
+        margin: auto;
+        background-color: #FFFFFF;
+        width:10.5rem;
+        height: 4rem;   
+        padding: 1.5rem;
+    }
+    .texto2{
+        margin-top: 6rem;
+        font-size: 5rem;
+        text-align: center; 
+        color: #FFFFFF;
+    }
+    .logos1{
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+        margin-top: 5rem;
+        
+    }
+    .caja1{
+        display: flex;
+        flex-direction: row;
+    justify-content: space-around;
+    }
+    .proyect{
+       text-align: center; 
+    }
+    .rojo{
+        width: 60rem;
+        height: auto;  
+        margin-top: 32px;
+    }
+    .pt{
+        height: 10rem;
+        width: 55rem;
+        left: 0px;
+        top: 0px;
+        margin: auto;
+        padding: 20px 40px 20px 40px;
+        background-color:  #333333;
+        color: aliceblue;
+    }
+    .pt2{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .o{
+        margin-top: 2rem;
+    }
+    .semi{
+        font-size: 5rem;
+    }
+    .semi2{
+        font-size: 2rem;
+    }
+    .graybl{
+        height: 541px;
+    width: 728px;
+    left: 0px;
+    top: 320px;
+    border-radius: 0px;
+    padding: 80px 60px 80px 60px;
+    background: #333333;
+    }
+    .name{
+        color: white;
+        background-color: #333333;
+        border-top: 0ch;
+        border-right: 0ch;
+        border-left: 0ch;
+        border-color: rgb(255, 255, 255);
+        width: 7rem;
+        height: 0.5rem;
+    }
+    .graybl p{
+        color: aliceblue;
+    }
+    .final{
+        font-size:  2.8rem;
+        text-decoration: none;
+        color: black;
+    background-color: #FFFFFF;
+    width: 7rem;
+        height: 5rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
